@@ -4,6 +4,7 @@ Aplikasi pelacakan pengeluaran berbasis web yang dibangun dengan AdonisJS, MySQL
 ## Tim Pengembang
 - **Muhammad Bintang Indra Hidayat** - NPM: 2208107010023
 - **Ahmad Syah Ramadhan** - NPM: 2208107010033
+- **Indriani Miza Alfiyanti** - NPM: 2208107010026
 
 ## Teknologi yang Digunakan
 - AdonisJS - Framework web Node.js yang lengkap
